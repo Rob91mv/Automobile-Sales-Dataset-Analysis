@@ -51,6 +51,15 @@ Remaining product categories contributing lower sales volumes.
 Customers with less than 23 months since their last order showed increasing sales activity.
 Higher-value customers were mainly identified between 20 and 92 months of relationship history, representing key opportunities for retention strategies.
 
+# Power BI Dashboard Screenshots
+
+![Dashboard](images/Q1.jpg)
+![Dashboard](images/Q2.jpg)
+![Dashboard](images/Q3.jpg)
+![Dashboard](images/Q4.jpg)
+![Dashboard](images/Q5.jpg)
+![Dashboard](images/Q6.jpg)
+
 # Dataset Source
 
 https://www.kaggle.com/datasets/ddosad/auto-sales-data/data?utm_source=chatgpt.com
