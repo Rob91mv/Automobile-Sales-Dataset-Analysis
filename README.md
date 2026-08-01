@@ -58,7 +58,6 @@ Higher-value customers were mainly identified between 20 and 92 months of relati
 ![Dashboard](images/Q3.jpg)
 ![Dashboard](images/Q4.jpg)
 ![Dashboard](images/Q5.jpg)
-![Dashboard](images/Q6.jpg)
 
 # Dataset Source
 
