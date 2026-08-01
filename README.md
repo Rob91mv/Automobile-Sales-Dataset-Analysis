@@ -4,7 +4,7 @@ Analysed a global automobile sales dataset (2,748 records) from Kaggle platform 
 # Dataset
 
 | Feature | Description | 
-|---|---|---|
+|---|---|
 | OrderDate | Date when the vehicle order was placed |
 | ProductLine | Vehicle category or product range |
 | QuantityOrdered | Number of vehicles ordered | 
