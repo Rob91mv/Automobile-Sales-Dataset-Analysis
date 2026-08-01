@@ -1,5 +1,5 @@
 # Automobile-Sales-Dataset-Analysis
-Analysed a global automobile sales dataset (2,748 records) from Kaggle platform using Python to identify sales trends, customer purchasing behaviour, pricing strategies, regional performance, and key factors influencing vehicle sales through data analysis and visualisation.
+Analysed a global automobile sales dataset (2,748 records) from Kaggle platform using Power BI to identify sales trends, customer purchasing behaviour, pricing strategies, regional performance, and key factors influencing vehicle sales through data analysis and visualisation.
 
 # Dataset
 
